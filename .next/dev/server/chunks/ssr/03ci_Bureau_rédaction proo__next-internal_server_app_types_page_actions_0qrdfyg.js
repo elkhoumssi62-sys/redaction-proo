@@ -1,0 +1,7 @@
+module.exports = [
+"[project]/OneDrive/Bureau/rédaction proo/.next-internal/server/app/types/page/actions.js [app-rsc] (server actions loader, ecmascript)", ((__turbopack_context__, module, exports) => {
+
+}),
+];
+
+//# sourceMappingURL=03ci_Bureau_r%C3%A9daction%20proo__next-internal_server_app_types_page_actions_0qrdfyg.js.map
